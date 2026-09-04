@@ -2,7 +2,7 @@
   "name": "Milpa & Clima — Monitoreo agroclimático de maíz",
   "short_name": "Milpa & Clima",
   "description": "Tablero de monitoreo agroclimático de maíz 2023–2025",
-  "start_url": "./tablero_maiz.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
